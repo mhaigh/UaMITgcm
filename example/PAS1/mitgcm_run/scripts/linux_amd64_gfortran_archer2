@@ -1,0 +1,28 @@
+#!/bin/bash
+
+CC='cc'
+FC='ftn'
+F90C='ftn'
+
+DEFINES='-DWORDLENGTH=4 -D_BYTESWAPIO -DHAVE_LAPACK -DNML_TERMINATOR -DALWAYS_USE_MPI'
+CPP='cpp -traditional -P'
+EXTENDED_SRC_FLAG='-Mextend'
+GET_FC_VERSION="--version"
+CHECK_FOR_LAPACK=t
+FC_CHECK=f
+
+INCLUDES='-I${NETCDF_DIR}/include -I${CRAY_MPICH_DIR}/include'
+LIBS='-L${NETCDF_DIR}/lib -L${CRAY_MPICH_DIR}/include/lib'
+
+NOOPTFLAGS='-O0'
+NOOPTFILES=''
+
+FFLAGS='-fallow-argument-mismatch'
+FOPTIM='-O3 -funroll-loops'
+
+FFLAGS="$FFLAGS -mcmodel=medium"
+CFLAGS="$CFLAGS -mcmodel=medium"
+FFLAGS="$FFLAGS -ffpe-trap=zero,invalid"
+#DEFINES='DWORDLENGTH=4 -D_BYTESWAPIO -DHAVE_LAPACK -DNML_TERMINATOR'
+
+

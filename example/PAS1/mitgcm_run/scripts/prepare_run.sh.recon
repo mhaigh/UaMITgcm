@@ -1,0 +1,66 @@
+#!/bin/bash
+################################################
+# Clean out old results and link input files.
+################################################
+
+# Save current directory
+ORIG_DIR=$PWD
+
+# Optional argument: path to scripts/ directory.
+# Can be useful if this script was called from a different directory.
+# If unset, assume we're already in it
+SCRIPT_DIR=$1
+if [ -z "$SCRIPT_DIR" ]; then
+    SCRIPT_DIR=$ORIG_DIR
+fi
+
+cd $SCRIPT_DIR
+
+# Empty the run directory - but first make sure it exists!
+if [ -d "../run" ]; then
+  cd ../run
+  rm -rf *
+else
+  echo 'Creating run directory'
+  mkdir ../run
+  cd ../run
+fi
+
+# Copy everything from the input directory
+cp ../input/* .
+cp ../input/data.recon data
+cp ../input/data.exf.recon data.exf
+cp ../input/data.cal.recon data.cal
+
+# Link input files stored elsewhere
+PAS_IN=/work/n02/n02/shared/baspog/PAS_files/
+ln -s $PAS_IN/* .
+
+# recon_ATM=/work/n02/n02/shared/baspog/CESM/recon_CESM1_LENS.1.1
+# recon_ATM=/work/n02/n02/shared/baspog/CESM/recon_CESM1_PAC_PACE.1.1
+# recon_ATM=/work/n02/n02/shared/baspog/CESM/recon_DAL23.1.1
+recon_ATM=/work/n02/n02/shared/baspog/recon_ERA5/ERA5A1.1
+
+ln -s $recon_ATM/* .
+
+# These for ERA5 runs
+../scripts/dummy_link.sh recon 1949 1978 1979 2008
+../scripts/dummy_link.sh recon 1948 1948 1949 1949
+../scripts/dummy_link.sh recon 2015 2015 2014 2014
+
+# These for CESM1 runs
+#../scripts/dummy_link.sh recon 1870 1899 1900 1929
+#../scripts/dummy_link.sh recon 1869 1869 1870 1870
+#../scripts/dummy_link.sh recon 2006 2006 2005 2005
+
+# Deep copy of some files that will be modified
+rm -f OB*corr.bin
+cp -r $PAS_IN/OB*corr.bin .
+for f in OB*corr.bin; do
+  cp $f $f.master
+done
+
+# Link executable
+ln -s ../build/mitgcmuv .
+
+cd $ORIG_DIR

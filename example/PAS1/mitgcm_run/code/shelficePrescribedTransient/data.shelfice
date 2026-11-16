@@ -1,0 +1,7 @@
+&SHELFICE_PARM01
+
+ SHELFICEusePrescribedForcing=.TRUE.,
+ SHELFICEforcingTFile='shelfice_heat_flux.bin',
+ SHELFICEforcingSFile='shelfice_salt_flux.bin',
+
+/

@@ -1,0 +1,3113 @@
+
+*****Wed Nov 11 01:08:04 PM GMT 2026*****
+Matplotlib created a temporary cache directory at /tmp/matplotlib-shmlyky7 because the default path (/home/n02/n02/michai1/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Reading parameters
+Checking calendar
+This is the first segment
+Initialising calendar
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 0 0
+True False
+Submitting next MITgcm segment
+Submitted with job ID 654465
+Coupling successfully completed
+
+*****Wed Nov 11 02:27:46 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  0 52560 0 365
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 52560 52560
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/192001/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.2602616602820328 Sv out of the domain
+Will apply correction of 1.0853344016397386e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1921
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1921
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1921
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1921
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1921
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1921
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1921
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1921
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1921
+Submitting next MITgcm segment
+Submitted with job ID 654646
+Coupling successfully completed
+
+*****Wed Nov 11 03:47:16 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  52560 105120 365 730
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 105120 105120
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/192101/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.4503610004505565 Sv into the domain
+Will apply correction of -1.878080261288576e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1922
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1922
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1922
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1922
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1922
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1922
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1922
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1922
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1922
+Submitting next MITgcm segment
+Submitted with job ID 654924
+Coupling successfully completed
+
+*****Wed Nov 11 05:05:26 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  105120 157680 730 1095
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 157680 157680
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/192201/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.8267763756540397 Sv into the domain
+Will apply correction of -3.447794969062895e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1923
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1923
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1923
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1923
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1923
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1923
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1923
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1923
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1923
+Submitting next MITgcm segment
+Submitted with job ID 655184
+Coupling successfully completed
+
+*****Wed Nov 11 06:25:59 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  157680 210240 1095 1460
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 210240 210240
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/192301/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.5359697163819154 Sv into the domain
+Will apply correction of -2.235082842382623e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1924
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1924
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1924
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1924
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1924
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1924
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1924
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1924
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1924
+Submitting next MITgcm segment
+Submitted with job ID 655386
+Coupling successfully completed
+
+*****Wed Nov 11 07:45:11 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  210240 262800 1460 1825
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 262800 262800
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/192401/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.18937984623837636 Sv into the domain
+Will apply correction of -7.897454503172683e-06 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1925
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1925
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1925
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1925
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1925
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1925
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1925
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1925
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1925
+Submitting next MITgcm segment
+Submitted with job ID 655535
+Coupling successfully completed
+
+*****Wed Nov 11 09:04:22 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  262800 315360 1825 2190
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 315360 315360
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/192501/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.28994012399107105 Sv into the domain
+Will apply correction of -1.2090985304642845e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1926
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1926
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1926
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1926
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1926
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1926
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1926
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1926
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1926
+Submitting next MITgcm segment
+Submitted with job ID 655622
+Coupling successfully completed
+
+*****Wed Nov 11 10:23:29 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  315360 367920 2190 2555
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 367920 367920
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/192601/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.41066165764988566 Sv into the domain
+Will apply correction of -1.7125274003048813e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1927
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1927
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1927
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1927
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1927
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1927
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1927
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1927
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1927
+Submitting next MITgcm segment
+Submitted with job ID 655929
+Coupling successfully completed
+
+*****Wed Nov 11 11:42:43 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  367920 420480 2555 2920
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 420480 420480
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/192701/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.37593796987695915 Sv into the domain
+Will apply correction of -1.56772384817617e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1928
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1928
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1928
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1928
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1928
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1928
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1928
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1928
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1928
+Submitting next MITgcm segment
+Submitted with job ID 656146
+Coupling successfully completed
+
+*****Thu Nov 12 01:03:12 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  420480 473040 2920 3285
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 473040 473040
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/192801/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.5071809738759675 Sv into the domain
+Will apply correction of -2.115028998924488e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1929
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1929
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1929
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1929
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1929
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1929
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1929
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1929
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1929
+Submitting next MITgcm segment
+Submitted with job ID 656222
+Coupling successfully completed
+
+*****Thu Nov 12 02:21:40 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  473040 525600 3285 3650
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 525600 525600
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/192901/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.47987474965321175 Sv into the domain
+Will apply correction of -2.0011575032315396e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1930
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1930
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1930
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1930
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1930
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1930
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1930
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1930
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1930
+Submitting next MITgcm segment
+Submitted with job ID 656481
+Coupling successfully completed
+
+*****Thu Nov 12 03:40:24 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  525600 578160 3650 4015
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 578160 578160
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/193001/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.36839502538717234 Sv into the domain
+Will apply correction of -1.536268515356295e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1931
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1931
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1931
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1931
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1931
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1931
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1931
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1931
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1931
+Submitting next MITgcm segment
+Submitted with job ID 656570
+Coupling successfully completed
+
+*****Thu Nov 12 05:01:30 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  578160 630720 4015 4380
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 630720 630720
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/193101/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.44112260315103374 Sv into the domain
+Will apply correction of -1.8395546083194745e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1932
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1932
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1932
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1932
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1932
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1932
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1932
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1932
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1932
+Submitting next MITgcm segment
+Submitted with job ID 656603
+Coupling successfully completed
+
+*****Thu Nov 12 06:22:22 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  630720 683280 4380 4745
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 683280 683280
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/193201/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.6473643381485275 Sv into the domain
+Will apply correction of -2.6996169386837724e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1933
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1933
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1933
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1933
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1933
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1933
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1933
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1933
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1933
+Submitting next MITgcm segment
+Submitted with job ID 656636
+Coupling successfully completed
+
+*****Thu Nov 12 07:45:09 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  683280 735840 4745 5110
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 735840 735840
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/193301/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.5572157276292745 Sv into the domain
+Will apply correction of -2.323682242230437e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1934
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1934
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1934
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1934
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1934
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1934
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1934
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1934
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1934
+Submitting next MITgcm segment
+Submitted with job ID 656683
+Coupling successfully completed
+
+*****Thu Nov 12 09:05:05 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  735840 788400 5110 5475
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 788400 788400
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/193401/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.1532941989209499 Sv into the domain
+Will apply correction of -6.3926230041112955e-06 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1935
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1935
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1935
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1935
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1935
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1935
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1935
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1935
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1935
+Submitting next MITgcm segment
+Submitted with job ID 656733
+Coupling successfully completed
+
+*****Thu Nov 12 10:37:03 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  788400 840960 5475 5840
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 840960 840960
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/193501/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.034560147941758414 Sv out of the domain
+Will apply correction of 1.441215638381089e-06 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1936
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1936
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1936
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1936
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1936
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1936
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1936
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1936
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1936
+Submitting next MITgcm segment
+Submitted with job ID 657064
+Coupling successfully completed
+
+*****Thu Nov 12 11:54:35 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  840960 893520 5840 6205
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 893520 893520
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/193601/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.31828158256420086 Sv into the domain
+Will apply correction of -1.327287125544836e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1937
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1937
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1937
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1937
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1937
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1937
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1937
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1937
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1937
+Submitting next MITgcm segment
+Submitted with job ID 657367
+Coupling successfully completed
+
+*****Thu Nov 12 01:14:01 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  893520 946080 6205 6570
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 946080 946080
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/193701/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.683185144456129 Sv into the domain
+Will apply correction of -2.8489956575391893e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1938
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1938
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1938
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1938
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1938
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1938
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1938
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1938
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1938
+Submitting next MITgcm segment
+Submitted with job ID 657503
+Coupling successfully completed
+
+*****Thu Nov 12 02:32:34 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  946080 998640 6570 6935
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 998640 998640
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/193801/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.7845063922136676 Sv into the domain
+Will apply correction of -3.271522109146212e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1939
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1939
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1939
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1939
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1939
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1939
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1939
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1939
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1939
+Submitting next MITgcm segment
+Submitted with job ID 657655
+Coupling successfully completed
+
+*****Thu Nov 12 03:51:32 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  998640 1051200 6935 7300
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 1051200 1051200
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/193901/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.6564644777934846 Sv into the domain
+Will apply correction of -2.7375660342428136e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1940
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1940
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1940
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1940
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1940
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1940
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1940
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1940
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1940
+Submitting next MITgcm segment
+Submitted with job ID 658168
+Coupling successfully completed
+
+*****Thu Nov 12 05:11:14 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  1051200 1103760 7300 7665
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 1103760 1103760
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/194001/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.24334203239528734 Sv into the domain
+Will apply correction of -1.014776739829204e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1941
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1941
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1941
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1941
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1941
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1941
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1941
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1941
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1941
+Submitting next MITgcm segment
+Submitted with job ID 658359
+Coupling successfully completed
+
+*****Thu Nov 12 06:30:57 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  1103760 1156320 7665 8030
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 1156320 1156320
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/194101/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.1530882637344399 Sv into the domain
+Will apply correction of -6.384035164389334e-06 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1942
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1942
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1942
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1942
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1942
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1942
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1942
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1942
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1942
+Submitting next MITgcm segment
+Submitted with job ID 658931
+Coupling successfully completed
+
+*****Thu Nov 12 07:50:24 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  1156320 1208880 8030 8395
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 1208880 1208880
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/194201/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.4216299961763307 Sv into the domain
+Will apply correction of -1.758267195857869e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1943
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1943
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1943
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1943
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1943
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1943
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1943
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1943
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1943
+Submitting next MITgcm segment
+Submitted with job ID 659127
+Coupling successfully completed
+
+*****Thu Nov 12 09:10:04 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  1208880 1261440 8395 8760
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 1261440 1261440
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/194301/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.7888669315169738 Sv into the domain
+Will apply correction of -3.289706283144226e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1944
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1944
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1944
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1944
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1944
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1944
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1944
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1944
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1944
+Submitting next MITgcm segment
+Submitted with job ID 659343
+Coupling successfully completed
+
+*****Thu Nov 12 10:31:46 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  1261440 1314000 8760 9125
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 1314000 1314000
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/194401/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.6170324552723573 Sv into the domain
+Will apply correction of -2.57312794327684e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1945
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1945
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1945
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1945
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1945
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1945
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1945
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1945
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1945
+Submitting next MITgcm segment
+Submitted with job ID 659560
+Coupling successfully completed
+
+*****Thu Nov 12 11:51:18 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  1314000 1366560 9125 9490
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 1366560 1366560
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/194501/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.2835278898223899 Sv into the domain
+Will apply correction of -1.1823584477064251e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1946
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1946
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1946
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1946
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1946
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1946
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1946
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1946
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1946
+Submitting next MITgcm segment
+Submitted with job ID 660143
+Coupling successfully completed
+
+*****Fri Nov 13 01:10:48 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  1366560 1419120 9490 9855
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 1419120 1419120
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/194601/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.3724838594796543 Sv into the domain
+Will apply correction of -1.5533196334439885e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1947
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1947
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1947
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1947
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1947
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1947
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1947
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1947
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1947
+Submitting next MITgcm segment
+Submitted with job ID 660291
+Coupling successfully completed
+
+*****Fri Nov 13 02:30:16 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  1419120 1471680 9855 10220
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 1471680 1471680
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/194701/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.4505291267206884 Sv into the domain
+Will apply correction of -1.878781375792325e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1948
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1948
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1948
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1948
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1948
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1948
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1948
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1948
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1948
+Submitting next MITgcm segment
+Submitted with job ID 660368
+Coupling successfully completed
+
+*****Fri Nov 13 03:49:45 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  1471680 1524240 10220 10585
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 1524240 1524240
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/194801/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.6586160769667372 Sv into the domain
+Will apply correction of -2.746538560579348e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1949
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1949
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1949
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1949
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1949
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1949
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1949
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1949
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1949
+Submitting next MITgcm segment
+Submitted with job ID 660458
+Coupling successfully completed
+
+*****Fri Nov 13 05:09:16 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  1524240 1576800 10585 10950
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 1576800 1576800
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/194901/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.5136351691494492 Sv into the domain
+Will apply correction of -2.141944066466973e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1950
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1950
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1950
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1950
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1950
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1950
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1950
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1950
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1950
+Submitting next MITgcm segment
+Submitted with job ID 660562
+Coupling successfully completed
+
+*****Fri Nov 13 06:33:52 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  1576800 1629360 10950 11315
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 1629360 1629360
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/195001/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.4981537167673538 Sv into the domain
+Will apply correction of -2.0773838356614543e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1951
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1951
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1951
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1951
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1951
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1951
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1951
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1951
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1951
+Submitting next MITgcm segment
+Submitted with job ID 660653
+Coupling successfully completed
+
+*****Fri Nov 13 07:52:33 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  1629360 1681920 11315 11680
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 1681920 1681920
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/195101/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.5923111378743817 Sv into the domain
+Will apply correction of -2.470035938880946e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1952
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1952
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1952
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1952
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1952
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1952
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1952
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1952
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1952
+Submitting next MITgcm segment
+Submitted with job ID 660686
+Coupling successfully completed
+
+*****Fri Nov 13 09:10:42 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  1681920 1734480 11680 12045
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 1734480 1734480
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/195201/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.6294315389474134 Sv into the domain
+Will apply correction of -2.624834184014585e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1953
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1953
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1953
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1953
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1953
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1953
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1953
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1953
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1953
+Submitting next MITgcm segment
+Submitted with job ID 660792
+Coupling successfully completed
+
+*****Fri Nov 13 10:29:04 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  1734480 1787040 12045 12410
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 1787040 1787040
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/195301/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.49899071394624767 Sv into the domain
+Will apply correction of -2.0808742530796193e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1954
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1954
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1954
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1954
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1954
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1954
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1954
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1954
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1954
+Submitting next MITgcm segment
+Submitted with job ID 660931
+Coupling successfully completed
+
+*****Fri Nov 13 11:46:23 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  1787040 1839600 12410 12775
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 1839600 1839600
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/195401/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.453219652458447 Sv into the domain
+Will apply correction of -1.890001315519606e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1955
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1955
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1955
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1955
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1955
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1955
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1955
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1955
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1955
+Submitting next MITgcm segment
+Submitted with job ID 661365
+Coupling successfully completed
+
+*****Fri Nov 13 01:04:45 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  1839600 1892160 12775 13140
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 1892160 1892160
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/195501/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.41543777180622826 Sv into the domain
+Will apply correction of -1.7324445905449645e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1956
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1956
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1956
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1956
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1956
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1956
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1956
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1956
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1956
+Submitting next MITgcm segment
+Submitted with job ID 661675
+Coupling successfully completed
+
+*****Fri Nov 13 02:29:51 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  1892160 1944720 13140 13505
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 1944720 1944720
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/195601/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.5596854286874333 Sv into the domain
+Will apply correction of -2.3339813063234007e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1957
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1957
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1957
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1957
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1957
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1957
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1957
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1957
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1957
+Submitting next MITgcm segment
+Submitted with job ID 663270
+Coupling successfully completed
+
+*****Fri Nov 13 03:49:37 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  1944720 1997280 13505 13870
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 1997280 1997280
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/195701/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.6380130587890901 Sv into the domain
+Will apply correction of -2.6606205487539506e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1958
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1958
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1958
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1958
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1958
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1958
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1958
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1958
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1958
+Submitting next MITgcm segment
+Submitted with job ID 663672
+Coupling successfully completed
+
+*****Fri Nov 13 05:09:14 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  1997280 2049840 13870 14235
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 2049840 2049840
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/195801/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.5626256514191089 Sv into the domain
+Will apply correction of -2.346242524036807e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1959
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1959
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1959
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1959
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1959
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1959
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1959
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1959
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1959
+Submitting next MITgcm segment
+Submitted with job ID 665548
+Coupling successfully completed
+
+*****Fri Nov 13 06:26:24 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  2049840 2102400 14235 14600
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 2102400 2102400
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/195901/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.43739954909286544 Sv into the domain
+Will apply correction of -1.8240288537995205e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1960
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1960
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1960
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1960
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1960
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1960
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1960
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1960
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1960
+Submitting next MITgcm segment
+Submitted with job ID 665646
+Coupling successfully completed
+
+*****Fri Nov 13 07:43:45 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  2102400 2154960 14600 14965
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 2154960 2154960
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/196001/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.006032815301648876 Sv out of the domain
+Will apply correction of 2.515784298971583e-07 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1961
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1961
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1961
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1961
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1961
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1961
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1961
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1961
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1961
+Submitting next MITgcm segment
+Submitted with job ID 665730
+Coupling successfully completed
+
+*****Fri Nov 13 09:02:16 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  2154960 2207520 14965 15330
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 2207520 2207520
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/196101/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.1095406315569691 Sv into the domain
+Will apply correction of -4.568026488315213e-06 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1962
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1962
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1962
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1962
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1962
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1962
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1962
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1962
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1962
+Submitting next MITgcm segment
+Submitted with job ID 665855
+Coupling successfully completed
+
+*****Fri Nov 13 10:21:59 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  2207520 2260080 15330 15695
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 2260080 2260080
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/196201/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.4656994830368128 Sv into the domain
+Will apply correction of -1.9420442842713543e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1963
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1963
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1963
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1963
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1963
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1963
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1963
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1963
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1963
+Submitting next MITgcm segment
+Submitted with job ID 665909
+Coupling successfully completed
+
+*****Fri Nov 13 11:42:02 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  2260080 2312640 15695 16060
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 2312640 2312640
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/196301/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.7233669089240506 Sv into the domain
+Will apply correction of -3.0165602970960176e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1964
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1964
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1964
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1964
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1964
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1964
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1964
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1964
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1964
+Submitting next MITgcm segment
+Submitted with job ID 665928
+Coupling successfully completed
+
+*****Sat Nov 14 01:01:29 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  2312640 2365200 16060 16425
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 2365200 2365200
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/196401/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.5797356395392107 Sv into the domain
+Will apply correction of -2.417594019674967e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1965
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1965
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1965
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1965
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1965
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1965
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1965
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1965
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1965
+Submitting next MITgcm segment
+Submitted with job ID 665983
+Coupling successfully completed
+
+*****Sat Nov 14 02:22:23 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  2365200 2417760 16425 16790
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 2417760 2417760
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/196501/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.31703768165736085 Sv into the domain
+Will apply correction of -1.3220998519181278e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1966
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1966
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1966
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1966
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1966
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1966
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1966
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1966
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1966
+Submitting next MITgcm segment
+Submitted with job ID 666017
+Coupling successfully completed
+
+*****Sat Nov 14 03:41:24 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  2417760 2470320 16790 17155
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 2470320 2470320
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/196601/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.2900667730149566 Sv into the domain
+Will apply correction of -1.2096266779540381e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1967
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1967
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1967
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1967
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1967
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1967
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1967
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1967
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1967
+Submitting next MITgcm segment
+Submitted with job ID 666038
+Coupling successfully completed
+
+*****Sat Nov 14 05:01:12 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  2470320 2522880 17155 17520
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 2522880 2522880
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/196701/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.3277131677468843 Sv into the domain
+Will apply correction of -1.3666184041114497e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1968
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1968
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1968
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1968
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1968
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1968
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1968
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1968
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1968
+Submitting next MITgcm segment
+Submitted with job ID 666081
+Coupling successfully completed
+
+*****Sat Nov 14 06:20:26 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  2522880 2575440 17520 17885
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 2575440 2575440
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/196801/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.41134121132934515 Sv into the domain
+Will apply correction of -1.7153612521495174e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1969
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1969
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1969
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1969
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1969
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1969
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1969
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1969
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1969
+Submitting next MITgcm segment
+Submitted with job ID 666130
+Coupling successfully completed
+
+*****Sat Nov 14 07:40:15 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  2575440 2628000 17885 18250
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 2628000 2628000
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/196901/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.44064583245026817 Sv into the domain
+Will apply correction of -1.8375663952162692e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1970
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1970
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1970
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1970
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1970
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1970
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1970
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1970
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1970
+Submitting next MITgcm segment
+Submitted with job ID 666165
+Coupling successfully completed
+
+*****Sat Nov 14 09:01:43 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  2628000 2680560 18250 18615
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 2680560 2680560
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/197001/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.22370094276973745 Sv into the domain
+Will apply correction of -9.328701300227564e-06 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1971
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1971
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1971
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1971
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1971
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1971
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1971
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1971
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1971
+Submitting next MITgcm segment
+Submitted with job ID 666212
+Coupling successfully completed
+
+*****Sat Nov 14 10:23:18 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  2680560 2733120 18615 18980
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 2733120 2733120
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/197101/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.08112305774718567 Sv into the domain
+Will apply correction of -3.3829664055711078e-06 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1972
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1972
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1972
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1972
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1972
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1972
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1972
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1972
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1972
+Submitting next MITgcm segment
+Submitted with job ID 666326
+Coupling successfully completed
+
+*****Sat Nov 14 11:56:37 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  2733120 2785680 18980 19345
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 2785680 2785680
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/197201/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.42044092961192797 Sv into the domain
+Will apply correction of -1.7533085905573904e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1973
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1973
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1973
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1973
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1973
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1973
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1973
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1973
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1973
+Submitting next MITgcm segment
+Submitted with job ID 667680
+Coupling successfully completed
+
+*****Sat Nov 14 01:15:19 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  2785680 2838240 19345 19710
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 2838240 2838240
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/197301/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.6095885539540212 Sv into the domain
+Will apply correction of -2.542085636951557e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1974
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1974
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1974
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1974
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1974
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1974
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1974
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1974
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1974
+Submitting next MITgcm segment
+Submitted with job ID 668168
+Coupling successfully completed
+
+*****Sat Nov 14 02:33:46 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  2838240 2890800 19710 20075
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 2890800 2890800
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/197401/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.34159776941336545 Sv into the domain
+Will apply correction of -1.4245195018965264e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1975
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1975
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1975
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1975
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1975
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1975
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1975
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1975
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1975
+Submitting next MITgcm segment
+Submitted with job ID 668286
+Coupling successfully completed
+
+*****Sat Nov 14 03:52:49 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  2890800 2943360 20075 20440
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 2943360 2943360
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/197501/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.20338567590654366 Sv into the domain
+Will apply correction of -8.48152089028079e-06 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1976
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1976
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1976
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1976
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1976
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1976
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1976
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1976
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1976
+Submitting next MITgcm segment
+Submitted with job ID 668441
+Coupling successfully completed
+
+*****Sat Nov 14 05:12:43 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  2943360 2995920 20440 20805
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 2995920 2995920
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/197601/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.44635190517091944 Sv into the domain
+Will apply correction of -1.8613616673100144e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1977
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1977
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1977
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1977
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1977
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1977
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1977
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1977
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1977
+Submitting next MITgcm segment
+Submitted with job ID 669035
+Coupling successfully completed
+
+*****Sat Nov 14 06:31:50 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  2995920 3048480 20805 21170
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 3048480 3048480
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/197701/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.5010160944718923 Sv into the domain
+Will apply correction of -2.089320426667044e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1978
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1978
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1978
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1978
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1978
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1978
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1978
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1978
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1978
+Submitting next MITgcm segment
+Submitted with job ID 669123
+Coupling successfully completed
+
+*****Sat Nov 14 07:51:06 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  3048480 3101040 21170 21535
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 3101040 3101040
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/197801/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.3542983801616815 Sv into the domain
+Will apply correction of -1.4774831606699525e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1979
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1979
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1979
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1979
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1979
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1979
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1979
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1979
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1979
+Submitting next MITgcm segment
+Submitted with job ID 669186
+Coupling successfully completed
+
+*****Sat Nov 14 09:10:09 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  3101040 3153600 21535 21900
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 3153600 3153600
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/197901/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.46175664113046805 Sv into the domain
+Will apply correction of -1.9256019778765302e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1980
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1980
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1980
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1980
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1980
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1980
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1980
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1980
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1980
+Submitting next MITgcm segment
+Submitted with job ID 669274
+Coupling successfully completed
+
+*****Sat Nov 14 10:29:47 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  3153600 3206160 21900 22265
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 3206160 3206160
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/198001/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.5431769439707744 Sv into the domain
+Will apply correction of -2.265138179900101e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1981
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1981
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1981
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1981
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1981
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1981
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1981
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1981
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1981
+Submitting next MITgcm segment
+Submitted with job ID 669357
+Coupling successfully completed
+
+*****Sat Nov 14 11:48:23 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  3206160 3258720 22265 22630
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 3258720 3258720
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/198101/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.43577884445323434 Sv into the domain
+Will apply correction of -1.8172702459493187e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1982
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1982
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1982
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1982
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1982
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1982
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1982
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1982
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1982
+Submitting next MITgcm segment
+Submitted with job ID 669472
+Coupling successfully completed
+
+*****Sun Nov 15 01:09:40 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  3258720 3311280 22630 22995
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 3311280 3311280
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/198201/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.395675486072456 Sv into the domain
+Will apply correction of -1.6500325728138304e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1983
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1983
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1983
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1983
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1983
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1983
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1983
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1983
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1983
+Submitting next MITgcm segment
+Submitted with job ID 669651
+Coupling successfully completed
+
+*****Sun Nov 15 02:31:29 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  3311280 3363840 22995 23360
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 3363840 3363840
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/198301/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.5051197683414103 Sv into the domain
+Will apply correction of -2.106433429092647e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1984
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1984
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1984
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1984
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1984
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1984
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1984
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1984
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1984
+Submitting next MITgcm segment
+Submitted with job ID 669664
+Coupling successfully completed
+
+*****Sun Nov 15 03:50:16 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  3363840 3416400 23360 23725
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 3416400 3416400
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/198401/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.40175304009967683 Sv into the domain
+Will apply correction of -1.675376983728673e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1985
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1985
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1985
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1985
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1985
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1985
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1985
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1985
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1985
+Submitting next MITgcm segment
+Submitted with job ID 669694
+Coupling successfully completed
+
+*****Sun Nov 15 05:11:42 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  3416400 3468960 23725 24090
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 3468960 3468960
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/198501/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.18836189903493467 Sv into the domain
+Will apply correction of -7.855004412070097e-06 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1986
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1986
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1986
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1986
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1986
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1986
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1986
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1986
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1986
+Submitting next MITgcm segment
+Submitted with job ID 669736
+Coupling successfully completed
+
+*****Sun Nov 15 06:32:35 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  3468960 3521520 24090 24455
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 3521520 3521520
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/198601/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.24292043385196446 Sv into the domain
+Will apply correction of -1.0130186037969751e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1987
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1987
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1987
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1987
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1987
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1987
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1987
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1987
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1987
+Submitting next MITgcm segment
+Submitted with job ID 669835
+Coupling successfully completed
+
+*****Sun Nov 15 07:53:57 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  3521520 3574080 24455 24820
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 3574080 3574080
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/198701/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.6564563933652408 Sv into the domain
+Will apply correction of -2.7375323208326976e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1988
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1988
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1988
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1988
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1988
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1988
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1988
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1988
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1988
+Submitting next MITgcm segment
+Submitted with job ID 669867
+Coupling successfully completed
+
+*****Sun Nov 15 09:13:37 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  3574080 3626640 24820 25185
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 3626640 3626640
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/198801/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.8386482249095275 Sv into the domain
+Will apply correction of -3.497302554598541e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1989
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1989
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1989
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1989
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1989
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1989
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1989
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1989
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1989
+Submitting next MITgcm segment
+Submitted with job ID 669902
+Coupling successfully completed
+
+*****Sun Nov 15 10:33:50 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  3626640 3679200 25185 25550
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 3679200 3679200
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/198901/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.6808696682286473 Sv into the domain
+Will apply correction of -2.839339736635812e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1990
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1990
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1990
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1990
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1990
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1990
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1990
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1990
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1990
+Submitting next MITgcm segment
+Submitted with job ID 669956
+Coupling successfully completed
+
+*****Sun Nov 15 11:52:41 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  3679200 3731760 25550 25915
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 3731760 3731760
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/199001/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.4433763606639501 Sv into the domain
+Will apply correction of -1.8489531519200627e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1991
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1991
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1991
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1991
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1991
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1991
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1991
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1991
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1991
+Submitting next MITgcm segment
+Submitted with job ID 670006
+Coupling successfully completed
+
+*****Sun Nov 15 01:13:50 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  3731760 3784320 25915 26280
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 3784320 3784320
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/199101/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.21533114169968615 Sv into the domain
+Will apply correction of -8.97966667767256e-06 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1992
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1992
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1992
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1992
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1992
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1992
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1992
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1992
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1992
+Submitting next MITgcm segment
+Submitted with job ID 670786
+Coupling successfully completed
+
+*****Sun Nov 15 02:33:31 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  3784320 3836880 26280 26645
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 3836880 3836880
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/199201/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.06315456195499843 Sv into the domain
+Will apply correction of -2.6336502516725064e-06 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1993
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1993
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1993
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1993
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1993
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1993
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1993
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1993
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1993
+Submitting next MITgcm segment
+Submitted with job ID 671768
+Coupling successfully completed
+
+*****Sun Nov 15 03:54:27 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  3836880 3889440 26645 27010
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 3889440 3889440
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/199301/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.28598692374246193 Sv into the domain
+Will apply correction of -1.1926130280597551e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1994
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1994
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1994
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1994
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1994
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1994
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1994
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1994
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1994
+Submitting next MITgcm segment
+Submitted with job ID 671933
+Coupling successfully completed
+
+*****Sun Nov 15 05:14:01 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  3889440 3942000 27010 27375
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 3942000 3942000
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/199401/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.5922014034185885 Sv into the domain
+Will apply correction of -2.469578327952819e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1995
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1995
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1995
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1995
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1995
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1995
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1995
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1995
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1995
+Submitting next MITgcm segment
+Submitted with job ID 672053
+Coupling successfully completed
+
+*****Sun Nov 15 06:32:27 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  3942000 3994560 27375 27740
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 3994560 3994560
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/199501/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.8041248992865552 Sv into the domain
+Will apply correction of -3.353334545952862e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1996
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1996
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1996
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1996
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1996
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1996
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1996
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1996
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1996
+Submitting next MITgcm segment
+Submitted with job ID 672190
+Coupling successfully completed
+
+*****Sun Nov 15 07:51:07 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  3994560 4047120 27740 28105
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 4047120 4047120
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/199601/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.5271841127697423 Sv into the domain
+Will apply correction of -2.1984454143837054e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1997
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1997
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1997
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1997
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1997
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1997
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1997
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1997
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1997
+Submitting next MITgcm segment
+Submitted with job ID 672311
+Coupling successfully completed
+
+*****Sun Nov 15 09:10:33 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  4047120 4099680 28105 28470
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 4099680 4099680
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/199701/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.3969838889408677 Sv into the domain
+Will apply correction of -1.6554888303461636e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1998
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1998
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1998
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1998
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1998
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1998
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1998
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1998
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1998
+Submitting next MITgcm segment
+Submitted with job ID 672397
+Coupling successfully completed
+
+*****Sun Nov 15 10:28:46 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  4099680 4152240 28470 28835
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 4152240 4152240
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/199801/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.32025981946058873 Sv into the domain
+Will apply correction of -1.335536702358863e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1999
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1999
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_1999
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1999
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1999
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_1999
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1999
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1999
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_1999
+Submitting next MITgcm segment
+Submitted with job ID 672516
+Coupling successfully completed
+
+*****Sun Nov 15 11:49:48 PM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  4152240 4204800 28835 29200
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 4204800 4204800
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/199901/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.21230967807267864 Sv into the domain
+Will apply correction of -8.85366662010969e-06 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2000
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2000
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2000
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2000
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2000
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2000
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2000
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2000
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2000
+Submitting next MITgcm segment
+Submitted with job ID 672628
+Coupling successfully completed
+
+*****Mon Nov 16 01:11:29 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  4204800 4257360 29200 29565
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 4257360 4257360
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/200001/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.16470266443113904 Sv into the domain
+Will apply correction of -6.868374986739508e-06 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2001
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2001
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2001
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2001
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2001
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2001
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2001
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2001
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2001
+Submitting next MITgcm segment
+Submitted with job ID 672765
+Coupling successfully completed
+
+*****Mon Nov 16 02:31:20 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  4257360 4309920 29565 29930
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 4309920 4309920
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/200101/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.3371955635945451 Sv into the domain
+Will apply correction of -1.4061615716001977e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2002
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2002
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2002
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2002
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2002
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2002
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2002
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2002
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2002
+Submitting next MITgcm segment
+Submitted with job ID 672819
+Coupling successfully completed
+
+*****Mon Nov 16 03:51:11 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  4309920 4362480 29930 30295
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 4362480 4362480
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/200201/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.5399868841401562 Sv into the domain
+Will apply correction of -2.2518350999393145e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2003
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2003
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2003
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2003
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2003
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2003
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2003
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2003
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2003
+Submitting next MITgcm segment
+Submitted with job ID 672875
+Coupling successfully completed
+
+*****Mon Nov 16 05:11:01 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  4362480 4415040 30295 30660
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 4415040 4415040
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/200301/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.5372654723367085 Sv into the domain
+Will apply correction of -2.240486360182143e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2004
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2004
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2004
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2004
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2004
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2004
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2004
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2004
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2004
+Submitting next MITgcm segment
+Submitted with job ID 673051
+Coupling successfully completed
+
+*****Mon Nov 16 06:30:02 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  4415040 4467600 30660 31025
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 4467600 4467600
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/200401/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.38144261981411626 Sv into the domain
+Will apply correction of -1.5906791537686513e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2005
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2005
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2005
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2005
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2005
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2005
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2005
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2005
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2005
+Submitting next MITgcm segment
+Submitted with job ID 673079
+Coupling successfully completed
+
+*****Mon Nov 16 07:49:21 AM GMT 2026*****
+Reading parameters
+Checking calendar
+This is a restart from a previously-finished simulation that was extended
+Advancing calendar by 12 months
+save_last_calendar:  4467600 4520160 31025 31390
+Simulation is in ocean-only spinup phase
+Setting output intervals
+Updating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/calendar
+Updating namelists
+Updating endTime in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating pchkptFreq in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+Updating niter0 in /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data
+/epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/data 4520160 4520160
+False True
+Gathering output
+Creating /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/output/200501/
+Balancing OBCS based on last changes in sea surface height
+Calculating area of W boundary
+Calculating area of E boundary
+Calculating area of N boundary
+Net transport is 0.24734487360404586 Sv into the domain
+Will apply correction of -1.031469253292228e-05 m/s to normal velocity at each boundary
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2006
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2006
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_W_2006
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2006
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2006
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_UVEL_E_2006
+Correcting /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2006
+Reading /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2006
+Writing /epccfs/n02/n02/michai1/UaMITgcm/example/KT1/mitgcm_run/run/LENS_ens001_VVEL_N_2006
+Submitting next MITgcm segment
+Submitted with job ID 673113
+Coupling successfully completed

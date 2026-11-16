@@ -1,0 +1,114 @@
+#!/bin/bash
+################################################
+# Clean out old results and link input files.
+################################################
+
+ENS=001
+# XVARS empty for ALL. XVARS full for NONE.
+XVARS=()
+# XVARS=(PRECT TREFHT QBOT FLDS FSDS UBOT VBOT PSL)
+
+echo "Preparing ensemble ${ENS}. Ensure data.obcs/exf correct."
+
+# Save current directory
+ORIG_DIR=$PWD
+FORCINGDIR='/epccfs/n02/n02/shared/baspog/'
+
+# Optional argument: path to scripts/ directory.
+# Can be useful if this script was called from a different directory.
+# If unset, assume we're already in it
+SCRIPT_DIR=$1
+if [ -z "$SCRIPT_DIR" ]; then
+    SCRIPT_DIR=$ORIG_DIR
+fi
+
+cd $SCRIPT_DIR
+
+# Empty the run directory - but first make sure it exists!
+if [ -d "../run" ]; then
+  cd ../run
+  rm -rf *
+else
+  echo 'Creating run directory'
+  mkdir ../run
+  cd ../run
+fi
+
+# Copy everything from the input directory
+cp ../input/* .
+cp ../input/data.obcs.LENS data.obcs
+cp ../input/data.exf.LENS data.exf
+
+#echo 'Using diagnostics with different output freqs. Uncomment if not wanted.'
+#cp ../input/data.diagnostics.yearly data.diagnostics
+
+# Copy grid files
+cp ../../../PAS1/mitgcm_run/gridfiles/* .
+
+# Link input files stored elsewhere
+PAS_IN=${FORCINGDIR}/PAS_files/
+ln -s $PAS_IN/* .
+
+LENS_ATM=${FORCINGDIR}/CESM/LENS
+ln -s $LENS_ATM/*ens${ENS}* .
+
+PIctrl=${FORCINGDIR}/CESM/PIctrl
+for XVAR in ${XVARS[@]}; do
+  ln -s $PIctrl/PIctrl_ens${ENS:1}_${XVAR}* .
+  ln -s PIctrl_ens${ENS:1}_${XVAR}_1920 PIctrl_ens${ENS:1}_${XVAR}_1919
+  ln -s PIctrl_ens${ENS:1}_${XVAR}_2100 PIctrl_ens${ENS:1}_${XVAR}_2101
+done
+
+LENS_OBCS=${FORCINGDIR}/CESM/PAS_obcs/LENS_obcs
+#ln -s $LENS_OBCS/*192* .
+#ln -s $LENS_OBCS/*193* .
+#ln -s $LENS_OBCS/*194* .
+#ln -s $LENS_OBCS/*195* .
+#ln -s $LENS_OBCS/*196* .
+#ln -s $LENS_OBCS/*197* .
+#ln -s $LENS_OBCS/*198* .
+#ln -s $LENS_OBCS/*199* .
+#ln -s $LENS_OBCS/*200* .
+#ln -s $LENS_OBCS/*201* .
+#ln -s $LENS_OBCS/*202* .
+#ln -s $LENS_OBCS/*203* .
+#ln -s $LENS_OBCS/*204* .
+#ln -s $LENS_OBCS/*205* .
+#ln -s $LENS_OBCS/*206* .
+#ln -s $LENS_OBCS/*207* .
+#ln -s $LENS_OBCS/*208* .
+#ln -s $LENS_OBCS/*209* .
+#ln -s $LENS_OBCS/*210* .
+
+ln -s $LENS_OBCS/LENS_ens${ENS}_*_19* .
+ln -s $LENS_OBCS/LENS_ens${ENS}_*_20* .
+ln -s $LENS_OBCS/LENS_ens${ENS}_*_21* .
+
+../scripts/dummy_link.sh LENS 1890 1919 1920 1949 ${ENS}
+../scripts/dummy_link.sh LENS 1889 1889 1890 1890 ${ENS}
+../scripts/dummy_link.sh LENS 2101 2101 2100 2100 ${ENS}
+
+
+# Deep copy of some files that will be modified
+OBCS_CORR=( UVEL_E UVEL_W VVEL_N )
+for VAR in "${OBCS_CORR[@]}"; do
+    rm -f LENS_ens${ENS}_${VAR}_*
+    cp $LENS_OBCS/LENS_ens${ENS}_${VAR}_* .
+    # Now redo the work of dummy_link.sh as deep copies
+    for YEAR in {1920..1949}; do
+	cp LENS_ens${ENS}_${VAR}_$YEAR LENS_ens${ENS}_${VAR}_$((YEAR-30))
+    done
+    cp LENS_ens${ENS}_${VAR}_1890 LENS_ens${ENS}_${VAR}_1889
+    cp LENS_ens${ENS}_${VAR}_2100 LENS_ens${ENS}_${VAR}_2101
+    for f in LENS_ens${ENS}_${VAR}_*; do
+	cp $f $f.master
+    done
+done    
+
+# Copy restart files
+cp /epccfs/n02/n02/michai1/UaMITgcm/example/PAS1/mitgcm_run/input/restart/pickup*spinup* .
+
+# Link executable
+ln -s ../build/mitgcmuv .
+
+cd $ORIG_DIR
